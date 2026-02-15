@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Cinnaber",
+  "base_artist": "春野",
+  "createdAt": "2026-02-15T08:41:23.062386Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cinnaber",
+      "artist": "Haruno",
+      "has_synced": true,
+      "path": "select/01_Cinnaber_Haruno.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cinnaber",
+      "artist": "春野",
+      "has_synced": true,
+      "path": "select/02_Cinnaber_春野.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cinnaber",
+      "artist": "春野",
+      "has_synced": false,
+      "path": "select/pl_01_Cinnaber_春野.txt"
+    }
+  ]
+}
